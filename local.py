@@ -6,7 +6,7 @@ from dummy import *
 import sys
 
 player_count = 2
-N = 5
+N = 5 # number of rounds
 
 def play_game(c1: Controller, c2:Controller):
     players = [c1, c2]

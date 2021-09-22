@@ -1,0 +1,28 @@
+{
+  "width": 11,
+  "height": 9,
+  "map": [
+    [0, 0, 0, 8, 68, 8, 36, 8, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 36, 8, 8, 8, 4, 8, 8, 8, 36, 0],
+    [0, 4, 0, 0, 36, 132, 132, 0, 0, 4, 0],
+    [0, 132, 8, 8, 8, 68, 8, 8, 8, 132, 0],
+    [0, 4, 0, 0, 132, 132, 36, 0, 0, 4, 0],
+    [0, 36, 8, 8, 8, 4, 8, 8, 8, 36, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 8, 36, 8, 68, 8, 0, 0, 0]
+  ],
+  "player1_initial_x": 0,
+  "player1_initial_y": 0,
+  "player2_initial_x": 8,
+  "player2_initial_y": 10,
+  "player_vision": 5,
+  "player_initial_health": 3,
+  "player_initial_bomb_range": 2,
+  "player_initial_trap_count": 1,
+  "bomb_delay": 8,
+  "max_bomb_range": 5,
+  "deadzone_starting_step": 150,
+  "deadzone_expansion_delay": 5,
+  "max_step": 400
+}
